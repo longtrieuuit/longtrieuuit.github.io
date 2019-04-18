@@ -2,7 +2,7 @@
 title: News
 sidebar: home_sidebar
 keywords: news, blog, updates, release notes, announcements
-permalink: news.html
+permalink: index.html
 toc: false
 folder: news
 ---
