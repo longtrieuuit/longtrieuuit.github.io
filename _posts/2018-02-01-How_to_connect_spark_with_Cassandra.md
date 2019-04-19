@@ -1,8 +1,10 @@
 ---
 title:  "How to connect spark with Cassandra in Java with Maven Project"
 categories: python
+tags: [Apache_Spark, Learn_Spark_Example, Bigdata,Cassandra,Java]
+last_updated: July 3, 2016
+keywords: Apache Spark, Spark with example, Bigdata,Cassandra,Java
 permalink: How_to_connect_spark_with_Cassandra.html
-tags: [opencv]
 ---
 Full source in [Github repo](https://github.com/longtrieuuit/Spark_Example) 
 ## Develop environment

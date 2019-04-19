@@ -2,7 +2,7 @@
 title:  "Python How to clone image in opencv"
 categories: python
 permalink: Python_How_to_clone_image_in_opencv.html
-tags: [opencv]
+tags: [Python,Opencv]
 ---
 
 *  Install OpenCV with pip
