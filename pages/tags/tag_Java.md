@@ -1,8 +1,8 @@
 ---
-title: "Getting started pages"
-tagName: getting_started
+title: "Java Pages"
 search: exclude
-permalink: tag_getting_started.html
+tagName: Java
+permalink: tag_Java.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

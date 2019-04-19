@@ -9,11 +9,9 @@ allowed-tags:
   - OpenCV
   - Python
   - Java
-  - C
-  - C++
-  - troubleshooting
-  - rtsp
-  - camera
-  - rtsp
   - face_detection
+  - Docker
+  - Nvidia_Docker
+
+
 

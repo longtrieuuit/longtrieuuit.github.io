@@ -1,8 +1,8 @@
 ---
-title: "Formatting pages"
-tagName: formatting
+title: "Bigdata pages"
+tagName: Bigdata
 search: exclude
-permalink: tag_formatting.html
+permalink: tag_Bigdata.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

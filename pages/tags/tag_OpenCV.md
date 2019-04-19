@@ -1,8 +1,8 @@
 ---
-title: "Troubleshooting pages"
-tagName: troubleshooting
+title: "OpenCV pages"
+tagName: OpenCV
 search: exclude
-permalink: tag_troubleshooting.html
+permalink: tag_OpenCV.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

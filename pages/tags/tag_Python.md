@@ -1,8 +1,8 @@
 ---
-title: "Single sourcing pages"
-tagName: single_sourcing
+title: "Formatting pages"
+tagName: Python
 search: exclude
-permalink: tag_single_sourcing.html
+permalink: tag_Python.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

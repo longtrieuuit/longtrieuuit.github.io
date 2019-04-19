@@ -1,8 +1,8 @@
 ---
-title: "Content types pages"
-tagName: content_types
+title: "Nvidia Docker pages"
+tagName:  Nvidia_Docker
 search: exclude
-permalink: tag_content_types.html
+permalink: tag_Nvidia_Docker.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

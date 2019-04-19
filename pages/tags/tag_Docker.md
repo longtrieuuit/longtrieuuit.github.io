@@ -1,8 +1,8 @@
 ---
-title: "Mobile Pages"
+title: "Docker pages"
+tagName: Docker
 search: exclude
-tagName: mobile
-permalink: tag_mobile.html
+permalink: tag_Docker.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
