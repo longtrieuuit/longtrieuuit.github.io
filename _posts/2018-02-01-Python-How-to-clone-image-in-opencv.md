@@ -5,12 +5,12 @@ permalink: Python_How_to_clone_image_in_opencv.html
 tags: [Python,Opencv]
 ---
 
-## Install OpenCV with pip
+*  Install OpenCV with pip
 ```
 pip install python-opencv
 ```
 
-## Opencv Python Clone image sample source
+*  cv2 clone image sample source
 
 	```python
 	import cv2
