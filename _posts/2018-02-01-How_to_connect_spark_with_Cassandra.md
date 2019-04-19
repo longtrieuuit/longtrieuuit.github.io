@@ -126,8 +126,8 @@ import org.apache.spark.storage.StorageLevel;
 public class Connect_SparkWithCassandra {
 
     private static final String CASSANDRA_DB_USER = "remoteuser";
-    private static final String CASSANDRA_USER_PASS = "FWguest345!";
-    private static final String TABLE_NAME = "d_registered_com_1000000005";
+    private static final String CASSANDRA_USER_PASS = "guest35!";
+    private static final String TABLE_NAME = "d_registered_com_10000005";
     private static final String KEY_SPACES = "testdb";
     private static final String CASSANDRA_HOSTS = "192.168.130.63,192.168.130.64,192.168.130.65,192.168.130.66,192.168.130.67,192.168.130.68,192.168.130.69,192.168.130.70,192.168.130.71,192.168.130.72,192.168.130.73,192.168.130.74";
 
