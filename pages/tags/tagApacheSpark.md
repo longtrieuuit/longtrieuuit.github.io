@@ -1,8 +1,8 @@
 ---
-title: "Collaboration pages"
-tagName: collaboration
+title: "Apache Spark pages"
+tagName: Apache_Spark
 search: exclude
-permalink: tag_collaboration.html
+permalink: tag_apache_spark.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
