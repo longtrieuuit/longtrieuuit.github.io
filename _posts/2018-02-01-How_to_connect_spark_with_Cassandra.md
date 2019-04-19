@@ -103,7 +103,7 @@ pom.xml
 
 ##  Interacting with Cassandra from Spark sample source
 
-```xml
+```java
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
