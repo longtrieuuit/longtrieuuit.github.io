@@ -1,4 +1,4 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: longtrieuuit/longtrieuuit.github.io
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -12,7 +12,7 @@ site_title: My Documentation Blog
 company_name: UIT
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: longtrieuuit/longtrieuuit.github.io
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -24,7 +24,7 @@ disqus_shortname: longtrieuuit
 google_analytics: UA-45401625-2
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
-host: 192.168.1.155
+host: longtrieuuit.github.io
 # the preview server used. Leave as is.
 
 port: 4000
@@ -35,7 +35,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: LongTrieu Documentation
 
 feedback_email: longtrieuuit@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
